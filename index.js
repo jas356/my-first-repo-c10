@@ -5,3 +5,6 @@
 // console.log(pet + "says" + petSound)
 
 
+console.log("this is amazing")
+
+console.log("this is so cool")
